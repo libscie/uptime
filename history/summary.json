@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1092,
-    "timeDay": 777,
-    "timeWeek": 1120,
-    "timeMonth": 1092,
-    "timeYear": 1092,
+    "time": 1079,
+    "timeDay": 942,
+    "timeWeek": 1121,
+    "timeMonth": 1079,
+    "timeYear": 1079,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.researchequals.com.ico",
     "slug": "research-equals",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 388,
-    "timeDay": 429,
-    "timeWeek": 339,
-    "timeMonth": 388,
-    "timeYear": 388,
-    "dailyMinutesDown": {
-      "2023-05-03": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 386,
+    "timeDay": 492,
+    "timeWeek": 342,
+    "timeMonth": 386,
+    "timeYear": 386,
+    "dailyMinutesDown": {}
   }
 ]
