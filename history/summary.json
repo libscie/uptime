@@ -4,18 +4,20 @@
     "url": "https://libscie.org",
     "icon": "https://icons.duckduckgo.com/ip3/libscie.org.ico",
     "slug": "liberate-science-gmb-h",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1087,
-    "timeDay": 1229,
-    "timeWeek": 1091,
-    "timeMonth": 1087,
-    "timeYear": 1087,
-    "dailyMinutesDown": {}
+    "time": 1069,
+    "timeDay": 887,
+    "timeWeek": 1023,
+    "timeMonth": 1069,
+    "timeYear": 1069,
+    "dailyMinutesDown": {
+      "2023-05-22": 0
+    }
   },
   {
     "name": "ResearchEquals",
