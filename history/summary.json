@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/libscie.org.ico",
     "slug": "liberate-science-gmb-h",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
-    "uptimeYear": "99.90%",
-    "time": 1072,
-    "timeDay": 982,
-    "timeWeek": 1170,
-    "timeMonth": 1060,
-    "timeYear": 1072,
+    "uptimeYear": "99.91%",
+    "time": 1068,
+    "timeDay": 885,
+    "timeWeek": 1075,
+    "timeMonth": 1055,
+    "timeYear": 1068,
     "dailyMinutesDown": {
       "2023-05-22": 52
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 364,
-    "timeDay": 195,
-    "timeWeek": 395,
-    "timeMonth": 359,
-    "timeYear": 364,
+    "time": 361,
+    "timeDay": 243,
+    "timeWeek": 335,
+    "timeMonth": 357,
+    "timeYear": 361,
     "dailyMinutesDown": {}
   }
 ]
