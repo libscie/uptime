@@ -4,7 +4,7 @@
     "url": "https://libscie.org",
     "icon": "https://icons.duckduckgo.com/ip3/libscie.org.ico",
     "slug": "liberate-science-gmb-h",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1162,
     "timeYear": 1168,
     "dailyMinutesDown": {
+      "2024-04-17": 0,
       "2024-02-03": 197,
       "2023-06-02": 24,
       "2023-05-22": 52
