@@ -4,7 +4,7 @@ repo: uptime # The name of this repository
 
 sites:
   - name: Liberate Science GmbH
-    url: https://libscie.org
+    url: https://www.libscie.org
   - name: ResearchEquals
     url: https://www.researchequals.com
 
