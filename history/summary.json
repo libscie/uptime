@@ -26,19 +26,19 @@
     "url": "https://www.researchequals.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.researchequals.com.ico",
     "slug": "research-equals",
-    "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 174,
-    "timeDay": 527,
-    "timeWeek": 421,
-    "timeMonth": 395,
-    "timeYear": 188,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "89.27%",
+    "uptimeWeek": "98.47%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.97%",
+    "time": 175,
+    "timeDay": 467,
+    "timeWeek": 414,
+    "timeMonth": 394,
+    "timeYear": 189,
     "dailyMinutesDown": {
-      "2025-07-14": 0
+      "2025-07-14": 155
     }
   }
 ]
